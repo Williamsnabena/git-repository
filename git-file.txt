@@ -7,3 +7,4 @@ To address staffing shortages in rural communities, the party plans to spend $14
 The NDP, which served as Official Opposition for the past four years,
 released a full platform in April and unveiled costing details in mid-May,
 while both the Liberals and the Greens have released fully costed platforms.
+I am adding a new line to the file
